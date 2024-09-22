@@ -9,6 +9,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuanSchneider&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSchneider&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LuanSchneider&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=LuanSchneider&icon=4&color=1)](https://visitcount.itsvg.in)
 
